@@ -1,0 +1,44 @@
+ENT pseudorandom test battery.
+Recoded edition by Alexander Myasnikov.
+Web: www.darksoftware.narod.ru
+
+Test results for file .\prng.rnd.
+Entropy = 7.999994 bits per byte.
+
+Optimum compression would reduce the size
+of this 31457281 bytes file by 0 percent.
+
+Chi square distribution for 31457281 samples is 252.52 (factor 0.9864160), and randomly
+would exceed this value 53.21 percent of the times.
+
+Arithmetic mean value of data bytes is 127.5134 (127.5 = random).
+Monte Carlo value for Pi is 3.141580963 (error 0.00 percent).
+Serial correlation coefficient is 0.000058 (totally uncorrelated = 0.0).
+
+BIRTHDAY TEST p-value: 0.064992
+
+BITSTREAM TEST p-value: 0.452581
+
+CDPARK TEST p-value: 0.770243
+
+COUNT 1's TEST p-value: 0.290720
+
+CRAP TEST p-value: 0.672474
+
+MINDIST TEST p-value: 0.911762
+
+OSUM TEST p-value: 0.329748
+
+RANK 31x31 TEST p-value: 0.981500
+
+RANK 32x32 TEST p-value: 0.488410
+
+RANK 6x8 TEST p-value: 0.041071
+
+RUNS TEST p-value: 0.234729
+
+SPHERE 3D TEST p-value: 0.773949
+
+SQUEEZE TEST p-value: 0.537251
+
+PERM5 TEST p-value: 0.712343
